@@ -1,13 +1,13 @@
-#Menu tool for command line
+# Menu tool for command line
 
-####A small tool written in python to easily create arrow menus in command line applications.
+#### A small tool written in python to easily create arrow menus in command line applications.
 
-#Installation:
+# Installation:
 ```bash
 pip3 install clmenu
 ```
 
-#Usage:
+# Usage:
 ```python
 from clmenu import Menu
 
