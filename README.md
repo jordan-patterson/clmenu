@@ -1,6 +1,6 @@
 # Menu tool for command line
 
-#### A small tool written in python to easily create arrow menus in command line applications.
+#### A small tool to easily create an arrow menu in command line applications.
 
 # Installation:
 ```bash
