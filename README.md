@@ -1,6 +1,6 @@
 # Menu tool for command line
 
-#### A small tool to easily create an arrow menu in command line applications.
+#### A small library to easily create an arrow menu in command line applications.
 
 # Installation:
 ```bash
